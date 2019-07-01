@@ -23,8 +23,14 @@
 	* pastes text from clipboard
 * `Ctrl+W` (_from browser_)
 	* closes currently opened tab
-* `Ctrl+Shift+T` (_from browser_)
+* `Ctrl+Shift+t` (_from browser_)
 	* reopens the most recently closed tab
+* `Alt+F4`
+	* closes the currently open window
+* `Windows+m`
+	* shows the desktop
+* `Windows+m`
+	* minimizes all windows
 
 
 
