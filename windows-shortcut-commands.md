@@ -23,6 +23,8 @@
 	* opens file explorer 
 * `Windows + r` 
 	* opens the command runner
+* `Windows + l`
+	* locks your computer
 
 
 
