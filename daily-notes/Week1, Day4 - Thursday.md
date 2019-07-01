@@ -1,4 +1,5 @@
 # Agile Methodologies
+* Date - Thursday, 06-27-2019
 
 ## What is a Scrum Master?
 * Responsible for managing the team and ensuring that everyone stays on task.

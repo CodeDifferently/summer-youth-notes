@@ -1,4 +1,5 @@
 # Git Collaboration
+* Date - Monday, 07-01-2019
 
 ### How do I _fork_ a repository?
 * Select `fork` from the top right of the browser's webpage.
