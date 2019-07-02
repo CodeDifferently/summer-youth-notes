@@ -5,6 +5,10 @@
 
 
 ### Viewing Lecture Slides
+#### Single-line solution
+`git clone https://github.com/CodeDifferently/summer-youth-notes & cd summer-youth-notes & start serve-slides-on-windows.bat & https://localhost:8080`
+
+#### Multi-line solution
 1. Clone this project with the following command
 	* `git clone https://github.com/CodeDifferently/summer-youth-notes`
 2. Change your directory to the newly _cloned repository_ with the following command
