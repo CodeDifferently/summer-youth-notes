@@ -8,7 +8,8 @@
 
 #### Single-line solution
 * Clone and serve these slides by copy and pasting the following command into the command prompt.
-`git clone https://github.com/CodeDifferently/summer-youth-notes & cd summer-youth-notes & start serve-slides-on-windows.bat & https://localhost:8080`
+
+```git clone https://github.com/CodeDifferently/summer-youth-notes & cd summer-youth-notes & start serve-slides-on-windows.bat & https://localhost:8080```
 
 
 #### Multi-line solution
