@@ -1,5 +1,8 @@
 # New Castle County Summer Youth Notes
 
+<hr>
+<hr>
+
 
 ### Viewing Lecture Slides
 1. Clone this project with the following command
@@ -11,7 +14,6 @@
 4. Navigate to the following address from a chrome window
 	* `https://localhost:8080`
 
-<hr>
 <hr>
 
 ### Development Notes
