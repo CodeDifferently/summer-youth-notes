@@ -15,7 +15,7 @@ git clone https://github.com/CodeDifferently/lecture-slides.git temporary-direct
 cd current-lecture-slides
 
 #7. open chrome
-start chrome http://localhost:8080/
+start chrome http://localhost:8080/temporary-directory/current-lecture-slides/
 
 #5. serve index.html
 python -m SimpleHTTPServer 8080
