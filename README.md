@@ -11,6 +11,9 @@
 4. Navigate to the following address from a chrome window
 	* `https://localhost:8080`
 
+<hr>
+<hr>
+
 ### Development Notes
 * Click [here](./daily-notes) to view the **day-by-day notes**
 * Click [here](./windows-shortcut-commands.md) to view some of the **windows shortcut commands**
