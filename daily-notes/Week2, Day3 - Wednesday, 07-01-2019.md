@@ -21,5 +21,5 @@ body {
    background-image: url("https://www.mywebsite.com/image.jpg");
 }
 ``` 
-
+<hr>
 * How do I change the `background-color` of the page?
