@@ -14,8 +14,6 @@
 	* in-line CSS
 
 ### Frequently asked questions
-<table>
-	<tr>
 * How do I change the `background-image` of the page?
 
 ```CSS
@@ -24,9 +22,4 @@ body {
 }
 ``` 
 
-</tr>
-
-<tr>
 * How do I change the `background-color` of the page?
-</tr>
-</table>
