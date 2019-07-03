@@ -21,5 +21,25 @@ body {
    background-image: url("https://www.mywebsite.com/image.jpg");
 }
 ``` 
+
 <hr>
+
 * How do I change the `background-color` of the page?
+
+```CSS
+body {
+   background-color: red;
+}
+```
+
+<hr>
+
+* How do I change the `background-position`?
+
+```CSS
+body {
+   background-position: centered;
+}
+```
+
+<hr>
